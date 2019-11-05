@@ -20,12 +20,15 @@ Typically we have the HR mentor take the lead on the discussion and start by ask
 
 - Tell us a little bit about yourself.
 - Tell me about your experience working with your peers and mentors at DevMountain.
-- How did you hear about our company, and why did you apply for this company.
+- How did you hear about our company, and why did you apply for this company?
 - What do you think sets you apart from the other candidates applying for this job?
 - If you could have one superpower, what would it be and why?
 - What do you expect from our company?
 - How are you hoping to grow during your time with our company?
 - Can you tell us about a time you had to solve a problem under pressure.
+- Can you tell us about a personal flaw or weakness you'd like to improve on. 
+- Where do you see yourself in the next 2 to 3 years?
+
 </details>
 
 ### Technical Questions
